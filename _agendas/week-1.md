@@ -18,6 +18,6 @@ summary:          Introductions, HTML &amp; CSS Review
 
 - Purchase [Sketch](https://www.sketch.com/store/edu/) (Mac users) or sign up for [Figma](https://www.figma.com/) (PC users). Sign up for [InVision](https://www.invisionapp.com/) (free)
 - Come to class with a list of 25 ideas for your time capsule components. Include photos, screenshots and/or sketches for each item. Consider how you&rsquo;ll organize your time capsule.
-- Select a discussion leader who will create a 10 minute presentation on the below:
+- Hunter will create a 10 minute presentation on the below:
 - [“A Living Language” and “A Rose is a Rose is a” from Design as Art by Bruno Munari](../assets/readings/bruno-munari.pdf) and post a discussion question [here](https://paper.dropbox.com/doc/CI-Week-1-Discussion-Question--Asx21EB1uy9sFVF1CP9VlebaAQ-xH0a5OX2qtmZKdtN0rgvp)
 
