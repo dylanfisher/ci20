@@ -1,0 +1,5 @@
+---
+title:            Architecture of “Ducks” Versus “Decorated Sheds”
+author:           Kurt Kohlstedt
+link:             https://99percentinvisible.org/article/lessons-sin-city-architecture-ducks-versus-decorated-sheds/
+---

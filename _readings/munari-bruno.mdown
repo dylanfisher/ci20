@@ -1,0 +1,5 @@
+---
+title:            Design as Art (excerpt)
+author:           Bruno Munari
+link:             /assets/readings/bruno-munari.pdf
+---

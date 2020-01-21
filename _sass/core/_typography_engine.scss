@@ -1,0 +1,49 @@
+///////////////////////////////////////////////////
+// Typography Variables
+///////////////////////////////////////////////////
+
+//
+// Font stacks
+//
+
+$font-stack-regular: 'Theinhardt-Regular', sans-serif;
+$font-stack-bold: 'Theinhardt-Medium', sans-serif;
+
+///////////////////////////////////////////////////
+// Typography definitions
+///////////////////////////////////////////////////
+
+@mixin font-regular {
+  font-family: $font-stack-regular;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+@mixin font-small {
+  font-family: $font-stack-regular;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+.font-small { @include font-small; }
+
+@mixin font-large {
+  font-family: $font-stack-regular;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+@mixin font-monospace {
+  font-family: menlo, monospace;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
