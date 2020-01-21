@@ -1,5 +1,5 @@
 ---
-title:            Maxims
+title:            Zine
 date:             2020-01-01 00:00:00 -0500
 index:            2
 categories:       Studio Lab
@@ -8,11 +8,20 @@ categories:       Studio Lab
 
 ### Overview
 
-By definition, maxims are a short, pithy statement expressing a general truth or rule of conduct. For this project, collect a set of phrases from an existing source. Examples: Email subject lines, news headlines, dates, fortune cookie messages. Create a type-only website that displays these maxims in a compelling way. Consider the content of your maxims. What are they about and where are they coming from? How does the content change based on the hierarchy of your design and the way you’re breaking it up? You should have at least 15 different maxims on your website and your website should guide the user with control and interest.
+Conduct an interview with someone who contributes to popular or visual culture in some way. Use the contents of the interview to build a single edition issue of a digital zine. Your zine must include:
+
+- A name for your zine
+- The interview
+- A combination of typography and graphics
+
+All of the graphics included must be edited or created by you (i.e no stock or found images).
+
+You’ll also need to print out your zine and you’ll work on creating a print stylesheet in lab to stylize this. Consider how both will adjust for the appropriate media.
+
 
 ### Deadlines
 
-Due February 19th. Check agenda for increments.
+Due February 25th. Check agenda for increments.
 
 ---
 
