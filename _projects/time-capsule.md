@@ -15,7 +15,7 @@ House your images on a website. It can be single page or multi-page. The caveat 
 
 ### Deadlines
 
-Due January 30th. Check agenda for increments.
+Due February 4th. Check agenda for increments.
 
 ---
 
