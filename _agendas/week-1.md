@@ -13,9 +13,9 @@ summary:          Introductions, HTML &amp; CSS Review
 - Group meetings on your projects as well as individual meetings with me
 
 ### Homework
-- Finish your two survey activities
+- Finish your survey activity (one survey, styled with the answers filled out)
 - Come to class with a final selection of your images and a draft of the final assets. We will look at putting them on a website in class.
-- Read [A Better Internet is Waiting For Us](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html) and pick a discussion leader. Everyone else will leave a discussion question [here](https://paper.dropbox.com/doc/Week-2-Reading-Discussion--As3rMCqRM4VLFeNNhj_pkSnqAQ-0zK3GiMmOSRRCrxlt3Zok)
+- Read [A Better Internet is Waiting For Us](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html) and Nicole is the discussion leader. Everyone else will leave a discussion question [here](https://paper.dropbox.com/doc/Week-2-Reading-Discussion--As3rMCqRM4VLFeNNhj_pkSnqAQ-0zK3GiMmOSRRCrxlt3Zok)
 
 ---
 
