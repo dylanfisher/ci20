@@ -1,5 +1,5 @@
 ---
-title:            Evolving Website
+title:            Dynamic Website
 date:             2020-01-01 00:00:00 -0500
 index:            5
 categories:       Studio Lab
