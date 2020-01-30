@@ -5,6 +5,16 @@ date_range:       1/27 – 1/31
 summary:          Design workflow, Navigation
 ---
 
+### Thursday, Studio
+
+- Vee presents on [Can the Internet Be Archived? – Jill Lapore](https://www.newyorker.com/magazine/2015/01/26/cobweb) and we [discuss](https://paper.dropbox.com/doc/CI20-Week-2-Can-The-Internet-Be-Archived--AtM1uorhtW47tbmyy5I9Xw2bAQ-azO7FVrcKljNyw702j8iI)
+- Watch quick tour of the physical [Internet Archive](https://www.youtube.com/watch?v=ec_-fgy3EGY)
+- [Time Capsule code refresher and in class activity](https://paper.dropbox.com/doc/Week-2-Time-Capsule-Code-Refresher--AtTBMG~Uy20wjpalolGRKUDVAQ-Zo1k8AKgxu4apGsm7qWsc)
+
+### Homework
+- Finish your Time Capsule project. It should be linked to your student homepage at the start of class. Check to see if it&rsquo;s working BEFORE class. This means look at it online (not locally!).
+- Come to class on time.
+
 ### Tuesday, Studio
 
 - Nicole presents on [A Better Internet is Waiting For Us](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html) and we [discuss](https://paper.dropbox.com/doc/Week-2-Reading-Discussion--As3rMCqRM4VLFeNNhj_pkSnqAQ-0zK3GiMmOSRRCrxlt3Zok)
