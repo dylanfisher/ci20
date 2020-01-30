@@ -15,6 +15,8 @@ summary:          Design workflow, Navigation
 - Finish your Time Capsule project. It should be linked to your student homepage at the start of class. Check to see if it&rsquo;s working BEFORE class. This means look at it online (not locally!).
 - Come to class on time.
 
+---
+
 ### Tuesday, Studio
 
 - Nicole presents on [A Better Internet is Waiting For Us](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html) and we [discuss](https://paper.dropbox.com/doc/Week-2-Reading-Discussion--As3rMCqRM4VLFeNNhj_pkSnqAQ-0zK3GiMmOSRRCrxlt3Zok)
