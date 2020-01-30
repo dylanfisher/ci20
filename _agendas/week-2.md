@@ -12,7 +12,7 @@ summary:          Design workflow, Navigation
 - [Time Capsule code refresher and in class activity](https://paper.dropbox.com/doc/Week-2-Time-Capsule-Code-Refresher--AtTBMG~Uy20wjpalolGRKUDVAQ-Zo1k8AKgxu4apGsm7qWsc)
 
 ### Homework
-- Finish your Time Capsule project. It should be linked to your student homepage at the start of class. Check to see if it&rsquo;s working BEFORE class. This means look at it online (not locally!).
+- Finish your Time Capsule project! It should be linked to your student homepage at the start of class. Check to see if it&rsquo;s working BEFORE class. This means look at it online (not locally!).
 - Come to class on time.
 
 ---
