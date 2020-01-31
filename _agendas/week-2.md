@@ -9,6 +9,12 @@ summary:          Design workflow, Navigation
 
 - Lecture: [HTML & CSS, Part 1](/workshops/lab/html-css-part-1)
 - [Talk about Positioning and Geometric Abstraction exercise](https://paper.dropbox.com/doc/Geometric-Abstraction--Atbl2dXdiATE5DboGkeOnTTrAg-j4g8TFlLLpv3cGVeObNXY)
+- [Discuss common HTML/CSS problems](https://paper.dropbox.com/doc/Common-Problems-Week-1-3--Atbf7hJU~wBUo4a5FpI_G17jAg-w3RAUoli8MTo13ddl10yy)
+- Troubleshooting programming problems remotely:
+  1. Push your most recent code to GitHub before reaching out for help.
+  1. Send an email with a link directly to the file on GitHub where you are having trouble. For example: [https://github.com/dylanfisher/ci20/commit/9b41a1c](https://github.com/dylanfisher/ci20/commit/9b41a1c60ee0346a1df4f4bb1fb21902cd6352c8#diff-7db27a77addb26466da1dd246f8591baR8-R2254f52025af0248f88bc670f0ece305be).
+     I will be able to make comments directly to your code in GitHub.
+  1. Include screenshots of the problems you are describing.
 - 1 on 1 reviews and group worktime. Please divide into small groups of 2 or 3. Help the other students in your group if they get
 stuck with something, and ask the group for help if you are stuck. You may choose to work on the lab assignment or continue working on your Time Capsule studio projects.
 
