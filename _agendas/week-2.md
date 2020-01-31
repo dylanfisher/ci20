@@ -5,6 +5,21 @@ date_range:       1/27 – 1/31
 summary:          Design workflow, Navigation
 ---
 
+### Friday, Lab
+
+- Lecture: [HTML & CSS, Part 1](/workshops/lab/html-css-part-1)
+- [Talk about Positioning and Geometric Abstraction exercise](https://paper.dropbox.com/doc/Geometric-Abstraction--Atbl2dXdiATE5DboGkeOnTTrAg-j4g8TFlLLpv3cGVeObNXY)
+- 1 on 1 reviews and group worktime. Please divide into small groups of 2 or 3. Help the other students in your group if they get
+stuck with something, and ask the group for help if you are stuck. You may choose to work on the lab assignment or continue working on your Time Capsule studio projects.
+
+### Homework
+
+- Complete the [Geometric Abstraction exercise](https://paper.dropbox.com/doc/Geometric-Abstraction--Atbl2dXdiATE5DboGkeOnTTrAg-j4g8TFlLLpv3cGVeObNXY) and upload to GitHub.
+- Update your GitHub pages repo by styling it using CSS. Make sure you are linking to an external stylesheet and adding all of your CSS to the external CSS file.
+- Read [W3 School's CSS tutorials](https://www.w3schools.com/css/default.asp). Please skim the contents of each section under the "CSS Tutorial" sidebar. (That's the sections named "CSS HOME" through "CSS Website Layout").
+
+---
+
 ### Thursday, Studio
 
 - Vee presents on [Can the Internet Be Archived? – Jill Lapore](https://www.newyorker.com/magazine/2015/01/26/cobweb) and we [discuss](https://paper.dropbox.com/doc/CI20-Week-2-Can-The-Internet-Be-Archived--AtM1uorhtW47tbmyy5I9Xw2bAQ-azO7FVrcKljNyw702j8iI)

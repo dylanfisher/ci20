@@ -7,10 +7,10 @@ title: Resources
 ### Navigating Terminal:
 
 ```bash
-cd folder_name # moves inside the folder folder_name
-cd ..          # moves up one folder
-ls             # lists the contents of a folder
-pwd            # shows the path of the current folder you are in
+cd projects # moves inside a directory named projects
+cd ..       # moves up one directory
+ls          # lists the contents of a directory
+pwd         # shows the path of the current directory you are in
 ```
 
 ### Git commands:
@@ -21,6 +21,10 @@ git add .               # add the changes you want to commit
 git commit -m 'message' # commit your changes with a message
 git push                # transfers the files to GitHub
 ```
+
+- If you make changes directly on GitHub, you may get an error that your push is rejected. You'll
+need to pull the changes from GitHub to your local computer first. Type in `git pull`, then try `git push` again.
+- Don't try to upload files larger than 100mb to GitHub. It will not work and causes problems.
 
 ---
 ### Programming

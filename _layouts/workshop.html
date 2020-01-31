@@ -7,4 +7,9 @@ layout: page
   {{ page.lecture_date |  date: '%A, %_m/%e' }} – {{ page.section }}
 </div>
 
+{% if page.external_url %}
+  <h3>External URL</h3>
+  <a href="{{ page.external_url }}">{{page.external_url}}</a>
+{% endif %}
+
 {{ content }}
