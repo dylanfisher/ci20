@@ -8,7 +8,7 @@ categories:       Studio Lab
 
 ### Overview
 
-Conduct an interview with someone who contributes to popular or visual culture in some way. Use the contents of the interview to build a single edition issue of a digital zine. Your zine must include:
+Conduct an interview with someone who contributes to popular or visual culture in some way (this could be anyone who works in graphic design, media, or any adjacent profession). Use the contents of the interview to build a single edition issue of a digital zine. Your zine must include:
 
 - A name for your zine
 - The interview
