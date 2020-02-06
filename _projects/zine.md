@@ -15,7 +15,7 @@ While this project is open ended, consider how you can find a subsection within 
 Your zine must include:
 
 - A name for your zine
-- The interview
+- The interview (feel free to edit it down to the most pertinent information)
 - A combination of typography and graphics
 
 All of the graphics included must be edited or created by you (i.e no stock or found images).
