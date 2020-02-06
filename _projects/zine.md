@@ -1,6 +1,6 @@
 ---
 title:            Zine
-date:             2020-01-01 00:00:00 -0500
+date:             2020-02-01 00:00:00 -0500
 index:            2
 categories:       Studio Lab
 
