@@ -11,8 +11,8 @@ summary:          Time Capsule critique, Zine Intro, Web Typography
 - What stood out about Time Capsule?
 - Introduce project 2: [Zine](../projects/zine). We&rsquo;ll look at examples next week.
 - IMPORTANT: We&rsquo;re going on a field trip to the [Cybernetics Library](https://cybernetics.social/) on Tuesday. Please meet at 424 W 54 Street at 9am. My phone number is 415-637-6299 in case anyone gets lost.
-- Discuss interview homework in small groups, summarize findings.
-- Typography options in the browser demo
+- [Discuss interview homework in small groups, summarize findings.](https://paper.dropbox.com/doc/Week-3-Class-2-Interview-Typography--AtzheXlpQ97I6R0nlq8CBy0mAQ-EeavDboEOYuPs0t8UaLEV)
+- [Typography options in the browser demo](https://paper.dropbox.com/doc/Week-3-Class-2-Interview-Typography--AtzheXlpQ97I6R0nlq8CBy0mAQ-EeavDboEOYuPs0t8UaLEV)
 - Time permitting: watch [Nerds 2.0.1: A Brief History of the Internet (1998)](https://topdocumentaryfilms.com/nerds-brief-history-internet/)
 
 
