@@ -2,7 +2,7 @@
 title:            Week 3
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       2/3 – 2/7
-summary:          Time Capsule critique, Zine Intro, Web Typography, Flexbox
+summary:          Time Capsule critique, Zine Intro, Web Typography, Coding from Life
 ---
 
 ### Friday, Lab
