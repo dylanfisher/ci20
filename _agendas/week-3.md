@@ -11,6 +11,8 @@ summary:          Time Capsule critique, Zine Intro, Web Typography, Flexbox
 
 ### Homework
 
+Add a link to your Coding from Life sketches to your website. The link should be easy to find from your home page. You'll continue to do this with each exercise throughout the semester.
+
 If you did not finish the drawings in class, or you'd like to spend more time working on them, take a photo of the still life and complete it at home. If you weren't in class this week you'll need to create a still life of your own.
 
 Create an archive of all the drawings completed in class, both your own drawings and the two drawings from each other student.
