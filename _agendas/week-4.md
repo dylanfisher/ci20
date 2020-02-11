@@ -2,7 +2,8 @@
 title:            Week 4
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       2/10 – 2/14
-summary:          Cybernetics Library
+summary:          Cybernetics Library, Research and Design Process
+
 ---
 
 ### Tuesday, Studio
