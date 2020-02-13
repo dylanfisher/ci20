@@ -12,13 +12,13 @@ summary:          Cybernetics Library, Research and Design Process
 - Ani presents on [The New Web Typography](https://www.robinrendle.com/essays/the-new-web-typography)
 - Project announcement: Aim to have your interview content by 02/20 if possible (02/24 at the latest)
 - Common theme in interview questions – aim for a constructed narrative rather than a biography.
-- [Editorial examples, Type Demo and In Class Actiity](https://paper.dropbox.com/doc/Week-4-Editorial-Examples-Type-Online--AuMn9NHBjPdyidb9SUv2oUuQAQ-OuUr7KTbxFBE1zHTMVAlq)
+- [Editorial examples, Type Demo and In Class Activity](https://paper.dropbox.com/doc/Week-4-Editorial-Examples-Type-Online--AuMn9NHBjPdyidb9SUv2oUuQAQ-OuUr7KTbxFBE1zHTMVAlq)
 
 
 ### Homework
 - Send out your interview ASAP with the edits I provided. Aim to have your answers by 02/20 (02/24 at the latest)
 - Continue researching your topic and collect 10 more images to your are.na channel aiming to have a mix of visual research and documentation around your topic.
-- Complete your in class activity
+- Complete your in class activityt
 
 ### Tuesday, Studio
 
