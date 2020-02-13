@@ -17,8 +17,8 @@ summary:          Cybernetics Library, Research and Design Process
 
 ### Homework
 - Send out your interview ASAP with the edits I provided. Aim to have your answers by 02/20 (02/24 at the latest)
-- Continue researching your topic and collect 10 more images to your are.na channel aiming to have a mix of visual research and documentation around your topic.
-- Complete your in class activityt
+- Continue researching your topic and collect 10 more posts to your are.na channel aiming to have a mix of visual research and documentation around your topic.
+- Complete your in class activity
 
 ### Tuesday, Studio
 
