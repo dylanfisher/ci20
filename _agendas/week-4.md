@@ -9,7 +9,7 @@ summary:          Cybernetics Library, Research and Design Process
 ### Tuesday, Studio
 
 - Fieldtrip to the cybernetics library!
-<img src="assets/imgs/cybernetics.jpg">
+<img src="../assets/imgs/cybernetics.jpg">
 
 ### Homework
 - Due THURSDAY: Read [The New Web Typography](https://www.robinrendle.com/essays/the-new-web-typography) and write a [discussion question](https://paper.dropbox.com/doc/CI-20-Reading-Questions--AuMlNmkhwj8VbSY~tG8Mkc1tAQ-j3rwtmto4gYuFZgXYRlAj). Discussion leader is Ani, please make sure to introduce Jan Tschichold (mentioned in reading) in your presentation.
