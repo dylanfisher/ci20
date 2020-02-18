@@ -13,7 +13,7 @@ summary:          Research, Design Process
 - [Design process (userflows and wireframes)](https://paper.dropbox.com/doc/Week-5-Process--AuiY6v~NyUUnzYxzYSmHyrvRAQ-j014iDn7gqGhcNV2hPlBE)
 
 ### Homework
-- Complete a wireframe for your project. Consider three different ideas for the homepage, focusing on content hierarchy rather than design (but maintain a clear and consistent system throughout)
+- Complete the in class activity
 - Read [The Web's Grain – Frank Chimero](https://frankchimero.com/writing/the-webs-grain/) and write a [discussion question](https://paper.dropbox.com/doc/CI-20-Reading-Questions--AuhlmtEX~J5ypw9rsJK79glSAQ-j3rwtmto4gYuFZgXYRlAj) Sarah is the discussion leader.
 
 ---
