@@ -6,6 +6,17 @@ summary:          Research, Design Process, Event Poster Workshop
 
 ---
 
+### Friday, Studio
+
+- Sarah presents on Frank Chimero
+- [Notes, Design Process: presenting your ideas, mobile design considerations and in class activity](https://paper.dropbox.com/doc/Creating-a-Design-Presentation--AutHPgCxEeCCpkKjXYSZ9YPGAQ-g2G7a8BEn1KyxLH6Dxcrf)
+
+### Homework
+- Create 3 concepts for your zine project. Each concept should include a statement describing the direction, a moodboard that communicates the spirit of the idea, a page that shows off the type system, and a sketch of the homepage. Include both a desktop and mobile sized homepage for each direction. All 3 homepages should be visually distinct and you should consider if you'll add any additional content to help communicate your idea. Content can be visual assets, supporting text etc. Use either Sketch Cloud or InVision and have a link ready.
+
+
+---
+
 ### Thursday, Lab
 
 - Review successful [Net Art Anthology Layouts](https://paper.dropbox.com/doc/Net-Art-Anthology-Layouts--AurCuvZ1T51uCjCz937hvdJQAg-koT2gus2o3ci8lq0Gt21W) exercises.
