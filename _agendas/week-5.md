@@ -2,7 +2,7 @@
 title:            Week 5
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       2/17 – 2/21
-summary:          Research, Design Process
+summary:          Research, Design Process, Event Poster Workshop
 
 ---
 
