@@ -6,7 +6,19 @@ summary:          Research, Design Process
 
 ---
 
-### Tuesday, Lab
+### Thursday, Lab
+
+- Review successful [Net Art Anthology Layouts](https://paper.dropbox.com/doc/Net-Art-Anthology-Layouts--AurCuvZ1T51uCjCz937hvdJQAg-koT2gus2o3ci8lq0Gt21W) exercises.
+- [Event Poster Exercise](https://paper.dropbox.com/doc/Event-Poster--AuoOeSyTJeKe~msvTvtxKDlEAg-HuQ0PWVUvxiVNHP46Awtr)
+- One on one reviews
+
+### Homework
+
+- Finish Event Poster and create a link to it on your GitHub home page.
+
+---
+
+### Tuesday, Studio
 
 - Note: Lab is meeting on Thursday and Studio is meeting on Friday this week only
 - Rhizome presentations
