@@ -1,8 +1,8 @@
 ---
-title:            Week 5
+title:            Week 6
 start_date:       2020-01-20 00:00:00 -0500
-date_range:       2/17 – 2/21
-summary:          Research, Design Process, Event Poster Workshop
+date_range:       2/24 – 2/28
+summary:          Zine design progress
 
 ---
 
