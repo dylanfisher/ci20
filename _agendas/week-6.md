@@ -6,6 +6,17 @@ summary:          Zine design progress
 
 ---
 
+
+### Thursday, Studio
+
+- Ethan presents on Hito Steyrel and we discuss
+- Individual and group meetings on Zine project
+
+### Homework
+- Refine your project based on today&rsquo;s feedback. Begin programming your website and have a draft ready for Tuesday
+
+---
+
 ### Tuesday, Studio
 
 - [Week 6 notes and class presentations](https://paper.dropbox.com/doc/Week-6-Publication-in-Context--Au~rso2wUm9C5f6iscvSwwHwAQ-y5nj199uyzNS6gUFy1ii4)
