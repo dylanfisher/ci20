@@ -1,6 +1,6 @@
 ---
 title:            Week 7
-start_date:       2020-01-20 00:00:00 -0500
+start_date:       2020-03-01 00:00:00 -0500
 date_range:       3/1 – 3/7
 summary:          Zine design progress and critique
 
