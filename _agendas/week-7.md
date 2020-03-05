@@ -6,6 +6,17 @@ summary:          Zine design progress and critique
 
 ---
 
+### Thursday, Studio
+
+- Zine gallery view
+- [Zine critique!](https://paper.dropbox.com/doc/Zine-Critique--AvjvTVZBAO4ixaQkTiTiBqf0AQ-2bBgBxLaS11YcO1OOcx7N)
+
+### Homework
+- Take a break!
+- Read [The Tyranny of Terrazzo Will the Millennial Aesthetic Ever End? — Molly Fischer](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and write a [discussion question](https://paper.dropbox.com/doc/CI-20-Reading-Questions--Avi3IUF5s4Zw1~KvLBUzanOOAQ-j3rwtmto4gYuFZgXYRlAj)
+- Sophie S. is the discussion leader!
+
+---
 
 ### Tuesday, Studio
 
