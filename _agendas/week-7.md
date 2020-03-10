@@ -1,8 +1,22 @@
 ---
 title:            Week 7
 start_date:       2020-03-01 00:00:00 -0500
-date_range:       3/1 – 3/7
-summary:          Zine design progress and critique
+date_range:       3/2 – 3/6
+summary:          Zine design progress and critique, JavaScript basics
+
+---
+
+### Friday, Lab
+
+- Lecture [JavaScript Introduction](/workshops/lab/javascript-introduction)
+- Discuss [JavaScript in 14 Minutes](https://jgthms.com/javascript-in-14-minutes/)
+- In-class exercise and homework: [JavaScript Intro Exercise](/workshops/lab/javascript-intro-exercise)
+
+### Homework
+
+- Review [JavaScript in 14 Minutes](https://jgthms.com/javascript-in-14-minutes/) again. Follow the presentation slowly and read the descriptions of each component carefully. Try to absorb as much of this information
+as possible. If you begin to understand the basics, it will make using JavaScript much more fun because you will be confident in how the underlying principles work.
+- Complete the [JavaScript Intro Exercise](/workshops/lab/javascript-intro-exercise)
 
 ---
 
