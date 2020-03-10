@@ -13,11 +13,11 @@ summary:          Zine review, documenting work, midterm evaluations, project 3 
 - Sophie presents on [The Tyranny of Terrazzo Will the Millennial Aesthetic Ever End? — Molly Fischer](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and we [discuss](https://paper.dropbox.com/doc/CI-20-Reading-Questions--Avi3IUF5s4Zw1~KvLBUzanOOAQ-j3rwtmto4gYuFZgXYRlAj)
 - [Activity: Zine project review](https://app.mural.co/t/labud6290/m/labud6290/1583786452601/914f2c57b8e5ed943dfec818dd5bd4f632406059)
 - Strategies for documenting digital work
-- Activity: Documenting a classmate&rsqo;s project
+- Activity: Documenting a classmate&rsquo;s project
 
 
 ### Homework
-- Revise Activity: Documenting a Classmate&rsqo;s project based on in class critique
+- Complete Activity: Documenting a Classmate&rsquo;s
 - Reading: [The Edge of the Center – Michael Rock](https://2x4.org/ideas/2019/the-edge-of-the-center/) Daniela is the discussion leader. Write a [discussion question or comment](https://paper.dropbox.com/doc/CI-20-Reading-Questions--Av0pwRv9PNGrc7w~OM9w3XJoAQ-j3rwtmto4gYuFZgXYRlAj).
 
 
