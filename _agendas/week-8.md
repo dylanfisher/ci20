@@ -18,7 +18,7 @@ summary:          Zine review, documenting work, midterm evaluations, project 3 
 
 ### Homework
 - Revise Activity: Documenting a Classmate&rsqo;s project based on in class critique
-- Reading: [The Edge of the Center – Michael Rock](https://2x4.org/ideas/2019/the-edge-of-the-center/) Daniela is the discussion leader.
+- Reading: [The Edge of the Center – Michael Rock](https://2x4.org/ideas/2019/the-edge-of-the-center/) Daniela is the discussion leader. Write a [discussion question or comment](https://paper.dropbox.com/doc/CI-20-Reading-Questions--Av0pwRv9PNGrc7w~OM9w3XJoAQ-j3rwtmto4gYuFZgXYRlAj).
 
 
 ---
