@@ -23,6 +23,8 @@ Last class, we discussed process and the importance of having both an archive of
 
 - Two distinctly different ways of viewing your content.
 - A page (or multiple) that describes the process of documenting your subject. Explain using both text and image/video how and why you chose to document your subject, and go into detail explaining how this process informed the nature of the final archive.
+- All of your entries need to be treated consistently, and the method of image making you choose should relate to your concept.
+
 
 ### References
 
