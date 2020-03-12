@@ -2,7 +2,7 @@
 title:            Week 8
 start_date:       2020-03-09 00:00:00 -0500
 date_range:       3/9 – 3/13
-summary:          Zine review, documenting work, midterm evaluations, project 3 intro
+summary:          Zine review, Documenting Work, Isolation Diary Intro, Archives
 
 ---
 ### Thursday, Studio
