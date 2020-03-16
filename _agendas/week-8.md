@@ -15,7 +15,7 @@ summary:          Zine review, Documenting Work, Isolation Diary Intro, Archives
 
 
 ### Homework
-- Due 03/16 – Email me 3 ideas for your project. Each idea should include: a brief description of your topic, a description and example of the visual image making technique you’ll create, and instructions for when, where, and how you’ll complete the assignment. Once I respond, create an are.na board with the instructions & description as one of the blocks in the channel.
+- Due 03/17 – Email me 3 ideas for your project. Each idea should include: a brief description of your topic, a description and example of the visual image making technique you’ll create, and instructions for when, where, and how you’ll complete the assignment. Once I respond, create an are.na board with the instructions & description as one of the blocks in the channel.
 - Create your daily documentation every day and post it to your are.na board. Link your arena board to the Isolation-Diary Channel in Slack.
 
 ---
