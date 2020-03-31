@@ -7,6 +7,7 @@ summary:          Isolation Diary development
 ---
 ### Tuesday, Studio
 
+- [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
 - Isolation Diary check in and review homework.
 - In Slack: join all the student channels. Place your are.na link in your channel and then connect all your are.na channels together.
 - Small group meetings in breakout rooms. Share your ideas verbally and then have one person in your group summarize the feedback in the slack channel with your name on it.
