@@ -5,6 +5,19 @@ date_range:       3/30 – 4/3
 summary:          Isolation Diary development
 
 ---
+
+### Thursday, Studio
+
+- [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
+- [Isolation Diary check in with larger group and smaller groups](https://paper.dropbox.com/doc/Week-9-Isolation-Diary-Design-Feedback--AxTIY9yjCpyRd_3pM21Wy8Z9AQ-ts4m88Nk1UaSviUS85POe)
+
+
+### Homework
+- Pick one direction to move forward with and refine it based on today&rsquo;s feedback. Also design it at a mobile size.
+- Read [Premonition by Toby Shorin, Drew Austin, Kara Kittel, Kei Kreutler, Edouard Urcades](https://subpixel.space/entries/premonition/) and describe your opinion on how the pandemic will affect graphic design (A sentence or two, even bullet points are fine! This can just be talking points).
+
+---
+
 ### Tuesday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
