@@ -14,7 +14,7 @@ summary:          Isolation Diary development
 
 ### Homework
 - Pick one direction to move forward with and refine it based on today&rsquo;s feedback. Also design it at a mobile size.
-- Read [Premonition by Toby Shorin, Drew Austin, Kara Kittel, Kei Kreutler, Edouard Urcades](https://subpixel.space/entries/premonition/) and describe your opinion on how the pandemic will affect graphic design (A sentence or two, even bullet points are fine! This can just be talking points).
+- Read [Premonition by Toby Shorin, Drew Austin, Kara Kittel, Kei Kreutler, Edouard Urcades](https://subpixel.space/entries/premonition/) and describe your opinion on how the pandemic will affect graphic design (A sentence or two, even bullet points are fine! This can just be talking points. Post this on our #general channel at the start of class on Tuesday).
 
 ---
 
