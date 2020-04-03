@@ -1,7 +1,7 @@
 ---
 title:            GitHub
 subtitle:         Instructions for creating a GitHub account and repository
-lecture_date:     2019-01-23 00:00:00 -0500
+lecture_date:     2020-01-24 00:00:00 -0500
 section:          Lab
 ---
 

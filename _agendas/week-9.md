@@ -2,7 +2,23 @@
 title:            Week 9
 start_date:       2020-03-30 00:00:00 -0500
 date_range:       3/30 – 4/3
-summary:          Isolation Diary development
+summary:          Isolation Diary development, jQuery introduction
+
+---
+
+### Friday, Lab
+
+- [Lab Zoom Link](https://newschool.zoom.us/j/3928062190)
+- Create [Glitch account](https://glitch.com/) (if you don't already have one). Discuss using Glitch to code together when working remotely.
+- Lecture: [jQuery and DOM Manipulation](/workshops/lab/jquery-and-dom-manipulation)
+- Discuss [simple interactions](https://paper.dropbox.com/doc/Simple-Interactions--AxYyEIzoa1xmBVBwQgWIw1v2Ag-I0UABmzRlnRVx40q8LkkE).
+- [jQuery in-class exercises](/workshops/lab/html-css-jquery-in-class-exercises)
+- [Lab Glitch collection](https://glitch.com/@dylanfisher/ci-20)
+
+### Homework
+
+- Finish the jQuery in-class exercises.
+- Add a [simple interaction](https://paper.dropbox.com/doc/Simple-Interactions--AxYyEIzoa1xmBVBwQgWIw1v2Ag-I0UABmzRlnRVx40q8LkkE) to your class website home page.
 
 ---
 
