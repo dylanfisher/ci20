@@ -7,10 +7,6 @@ section:          Lab
 ### Instructions
 
 1. Remix the [Glitch ci20-jquery project](https://glitch.com/~ci20-jquery).
-1. In small groups (we'll assemble automatically using Zoom breakout rooms), complete the following tasks.
-   Help each other as much as possible in your breakout rooms. Work together through each question. If part of the group doesn't understand
-   a particular part of the prompt, work together to talk through the problem. Try sharing your Glitch projects with each other so that you can
-   debug issues in real-time. Complete any remaining tasks independently as homework, due next week.
 1. Try to complete each task using as short and simple code as possible. Try to replicate the look of the CSS and HTML exactly, including color, font size, etc.
 1. The Glitch project has 6 different sets of HTML, CSS, and JavaScript files that correspond to each question.
 
