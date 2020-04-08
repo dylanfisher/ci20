@@ -14,7 +14,8 @@ summary:          Isolation Diary development, Poster Series
 - Work on posters – share in small groups and then program it. Please send me a complete draft by the end of day so that I can place it in an archive (post a link in your Slack channel)
 
 ### Homework
-- Finish your Isolation Diary site design and begin programming.
+- Complete your Poster for Melisa Ozkan and prepare questions for her. Make sure to be on time to class on Tuesday! Please send me your poster by Friday night at the latest so that I can put it into an archive.
+- Continue working on your Isolation Diary. Begin programming if you haven&rsquo;t already and prepare questions for Dylan for Friday.
 
 ---
 
