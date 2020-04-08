@@ -6,6 +6,18 @@ summary:          Isolation Diary development, Poster Series
 
 ---
 
+### Thursday, Studio
+
+- [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
+- Observe new project deadline
+- [SVGs and CSS Animation Review](https://paper.dropbox.com/doc/SVGs-and-CSS-Animation-Review--AxsfUmHu8IrPKg03IH_4CXc7AQ-OtkUSIt3InE1KeEtu1fVD)
+- Work on posters – share in small groups and then program it. Please send me a complete draft by the end of day so that I can place it in an archive (post a link in your Slack channel)
+
+### Homework
+- Finish your Isolation Diary site design and begin programming.
+
+---
+
 ### Tuesday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
