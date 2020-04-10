@@ -6,6 +6,23 @@ summary:          Isolation Diary development, Poster Series
 
 ---
 
+### Friday, Lab
+
+- [Lab Zoom Link](https://newschool.zoom.us/j/3928062190)
+- Group review of simple interactions
+- Isolation Diary check in (refer to Slack channel `#coding-questions` for schedule)
+    - Please be ready to share your screen and quickly present your project, then follow up with
+      technical questions you may.
+- Use this [Dropbox Paper doc](https://paper.dropbox.com/doc/Core-Interaction-Lab-Programming-Suggestions--Ax2NPj4gzDZKs4TyZ1f5agM0Ag-HazPFXGHDMpYFzzWDnLWv) to add programming suggestions for the remainder of the semester. I'd like to use
+  this feedback to get an understanding of what you want to focus on, and what you need help with.
+
+### Homework
+
+- Continue to develop Isolation Diaries. Post progress to your GitHub page by Tuesday, April 14, end of day.
+  I will be reviewing and posting comments on your code directly in GitHub.
+
+---
+
 ### Thursday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
