@@ -1,8 +1,8 @@
 ---
-title:            Week 10
+title:            Week 11
 start_date:       2020-04-04 00:00:00 -0500
-date_range:       4/6 – 4/10
-summary:          Isolation Diary development, Poster Series
+date_range:       4/13 – 4/17
+summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continues
 
 ---
 
