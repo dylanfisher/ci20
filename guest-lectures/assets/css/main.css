@@ -36,6 +36,10 @@ img {
   animation-play-state: paused;
 }
 
+a {
+  text-decoration: none;
+}
+
 img:hover {
   animation: wiggle 2s ease-in infinite forwards;
   animation-play-state: running;
