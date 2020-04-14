@@ -11,7 +11,7 @@ summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continue
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
 - Guest lecture: Melisa Ozkan
 - [Thank you Melisa!](https://ci.labud.nyc/guest-lectures/)
-- Create an entry for [How Low Can Your Logo](https://howlowcanyourlogo.com/), at the end of class let&rsquo;s look at all of them and discuss what qualities make them good/bad. Post them in our "General" slack channel at an agreed time.
+- Create an entry for [How Low Can Your Logo](https://howlowcanyourlogo.com/), at the end of class let&rsquo;s look at all of them and discuss what qualities make them good/bad. Post them to this [mural board](https://app.mural.co/t/labud2715/m/labud2715/1586536400326/fcb7f4b546b30c97e6ffd44cedf1a9046600244b) at an agreed time.
 
 ### Homework
 - Continue working on isolation diary
