@@ -36,4 +36,4 @@ Last class, we discussed process and the importance of having both an archive of
 - 03/16 – Email me 3 ideas for your project. Each idea should include: a brief description of your topic, a description and example of the visual image making technique you’ll create, and instructions for when, where, and how you’ll complete the assignment. Once I respond, create an are.na board with the instructions & description as one of the blocks in the channel.
 - 03/30 – Have your are.na board completely populated and ready to share. (You should have at least 14 posts within it. You’ll continue adding on to it as we continue the project).
 - 04/02 – Develop 3 sketches for your archive website (in Sketch)
-- 04/20 – Project Due
+- 04/21 – Project Due
