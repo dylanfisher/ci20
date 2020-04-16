@@ -17,6 +17,7 @@ summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continue
 
 ### Homework
 - Finish Isolation Diary. It should be online and ready at 9am. You should be able to present your work articulately and present it with confidence to our guests.
+- Send me your poster for Paula on Slack by Tuesday night
 
 ---
 
