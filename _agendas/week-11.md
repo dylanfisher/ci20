@@ -8,6 +8,7 @@ summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continue
 
 ### Friday, Lab
 
+- [Lab Zoom Link](https://newschool.zoom.us/j/3928062190)
 - [Glitch demos](https://glitch.com/@dylanfisher/ci-20)
 - Open office hours on Zoom – sign up in the Slack `#general` channel for one-on-one meetings. Other students are
   welcome to listen in and participate on Zoom. Many of the issues you'll be encountering at this point are
