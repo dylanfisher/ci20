@@ -1,8 +1,23 @@
 ---
 title:            Week 11
-start_date:       2020-04-04 00:00:00 -0500
+start_date:       2020-04-13 00:00:00 -0500
 date_range:       4/13 – 4/17
-summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continues
+summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continues, Glitch Demos
+
+---
+
+### Friday, Lab
+
+- [Glitch demos](https://glitch.com/@dylanfisher/ci-20)
+- Open office hours on Zoom – sign up in the Slack `#general` channel for one-on-one meetings. Other students are
+  welcome to listen in and participate on Zoom. Many of the issues you'll be encountering at this point are
+  also similar issues other students are encountering.
+
+### Homework
+
+- Prepare for Isolation Diary critique on Tuesday. Be ready to share your screen, describe the idea behind
+  your project, and walk the viewers through your project, making sure to highlight any interactions.
+- Double-check that your Isolation Diary is linked to on your GitHub home page!
 
 ---
 
@@ -20,7 +35,6 @@ summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continue
 - Send me your poster for Paula on Slack by Tuesday night
 
 ---
-
 
 ### Tuesday, Studio
 
