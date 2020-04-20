@@ -1,7 +1,7 @@
 ---
 title:            Week 12
 start_date:       2020-04-13 00:00:00 -0500
-date_range:       4/13 – 4/17
+date_range:       4/20 – 4/25
 summary:          Isolation Diary critique, Guest lecture
 
 ---
