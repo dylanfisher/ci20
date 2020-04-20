@@ -1,8 +1,8 @@
 ---
-title:            Week 11
+title:            Week 12
 start_date:       2020-04-13 00:00:00 -0500
 date_range:       4/13 – 4/17
-summary:          Guest lecture, How Low Can Your Logo, Isolation Diary continues, Glitch Demos
+summary:          Isolation Diary critique, Guest lecture
 
 ---
 
