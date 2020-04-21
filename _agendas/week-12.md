@@ -9,6 +9,7 @@ summary:          Isolation Diary critique, Guest lecture
 ### Tuesday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
+- [Critique order](https://paper.dropbox.com/doc/CI-Isolation-Diary-Critique--AyiRtpTC~cDY8JN2JrFSx7oPAQ-xwwyzEpixO5kCrmhzAMyR)
 - Isolation Diary Critique with guests [Thierry Blancpain of Grilli Type](https://www.grillitype.com/) and [Michelle Mattar](http://michellemattar.com/)
 
 ### Homework
