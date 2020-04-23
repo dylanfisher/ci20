@@ -2,7 +2,7 @@
 title:            Week 12
 start_date:       2020-04-13 00:00:00 -0500
 date_range:       4/20 – 4/25
-summary:          Isolation Diary critique, Guest lecture
+summary:          Isolation Diary critique, Web 3.0 Swatch intro
 
 ---
 
