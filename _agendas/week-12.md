@@ -1,8 +1,23 @@
 ---
 title:            Week 12
-start_date:       2020-04-13 00:00:00 -0500
+start_date:       2020-04-20 00:00:00 -0500
 date_range:       4/20 – 4/25
-summary:          Isolation Diary critique, Web 3.0 Swatch intro
+summary:          Isolation Diary critique, Web 3.0 Swatch intro, Weather API
+
+---
+
+### Friday, Lab
+
+- [Lab Zoom Link](https://newschool.zoom.us/j/3928062190)
+- [Weather API](https://paper.dropbox.com/doc/An-Introduction-to-APIs--AytXMK8mKa4zYi6cRhZFVFl1Ag-nCsEX5hGMoxGIofSQgyoD)
+- [CI20 Lab Glitch Collection](https://glitch.com/@dylanfisher/ci-20)
+- Open office hours on Zoom post to Slack `#general` channel to chat.
+
+### Homework
+
+- Finish creating your [weather prototype](https://paper.dropbox.com/doc/An-Introduction-to-APIs--AytXMK8mKa4zYi6cRhZFVFl1Ag-nCsEX5hGMoxGIofSQgyoD). It needs too connect to openweathermap.org's weather API and display
+  the current weather forecast of your location of choice in an interesting and dynamic way. Post a link to the completed prototype to your Slack channel
+  by next week's lab class.
 
 ---
 
