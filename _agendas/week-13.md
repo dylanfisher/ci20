@@ -15,5 +15,5 @@ summary:          Web 3.0 Swatch development, Guest Lectures
 ### Homework
 - Complete both posters (Madison and Paula) and send to me by tonight if you haven&rsquo;t already.
 - Prepare questions for [Madison Bozinoff](http://madisonbozinoff.com/) and [Paula Volchok](https://paulavolchok.com/) and come to class on time
-
+- Complete design of your chosen direction to share on Slack
 ---
