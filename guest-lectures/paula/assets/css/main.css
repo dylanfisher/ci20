@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'theinhardt';
+  src: url('../fonts/Theinhardt-Medium.woff') format('woff'), url('../fonts/Theinhardt-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+font-family: theinhardt;
+background-color: #a2a2a2a3;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 20vmax;
+  text-align: center;
+  line-height: 1;
+}
+
+.background {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
+.foreground {
+  z-index: 2;
+}
+
+img {
+  max-width: 300px;
+  box-shadow: 2px 1px 33px 0 rgba(0, 114, 255, 0.56);
+  animation: wiggle 2s ease-in infinite forwards;
+  animation-play-state: paused;
+}
+
+a {
+  text-decoration: none;
+}
+
+img:hover {
+  animation: wiggle 2s ease-in infinite forwards;
+  animation-play-state: running;
+}
+
+.row {
+  text-align: center;
+}
+
+.row img {
+  display: inline-block;
+  margin: 50px;
+}
+
+@keyframes wiggle {
+  0% {transform: rotate(0);}
+  25% {transform: rotate(-15deg);}
+  50% {transform: rotate(50deg);}
+  75% {transform: rotate(-50deg);}
+  100% {transform: rotate(100deg);}
+
+}
+
