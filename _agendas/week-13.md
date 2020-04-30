@@ -9,7 +9,7 @@ summary:          Web 3.0 Swatch development, Guest Lectures
 ### Thursday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
-- Guest lecture and Q&A with Madison Bozinoff](http://madisonbozinoff.com/)
+- Guest lecture and Q&A with [Madison Bozinoff](http://madisonbozinoff.com/)
 - Guest lecture and Q&A with [Paula Volchok](https://paulavolchok.com/)
 - Thank you [Madison](https://ci.labud.nyc/guest-lectures/madison/index.html)!
 - Thank you [Paula](https://ci.labud.nyc/guest-lectures/paula/index.html)!
