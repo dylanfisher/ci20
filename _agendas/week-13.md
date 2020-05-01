@@ -1,8 +1,21 @@
 ---
 title:            Week 13
-start_date:       2020-04-20 00:00:00 -0500
+start_date:       2020-04-27 00:00:00 -0500
 date_range:       4/27 – 5/1
-summary:          Web 3.0 Swatch development, Guest Lectures
+summary:          Web 3.0 Swatch development, Guest Lectures, Data Storage & Websockets
+
+---
+
+### Friday, Lab
+
+- [Lab Zoom Link](https://newschool.zoom.us/j/3928062190)
+- [Data Storage and Real Time Interactions](https://paper.dropbox.com/doc/Data-Storage-and-Real-Time-Interactions--AzJRjTbpN7BVVQhHqyzz~1jzAg-3HHXkdnoWolXuwGn0neco)
+- [CI20 Lab Glitch Collection](https://glitch.com/@dylanfisher/ci-20)
+- Open office hours on Zoom post to Slack `#general` channel to chat.
+
+### Homework
+
+- Finish Web 3.0 Swatch projects. Critique on Friday, May 8 @ 4pm
 
 ---
 
