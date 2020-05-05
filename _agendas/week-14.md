@@ -1,7 +1,7 @@
 ---
 title:            Week 14
 start_date:       2020-04-27 00:00:00 -0500
-date_range:       5/5 – 5/8
+date_range:       5/4 – 5/8
 summary:          Web 3.0 Swatch development, presentation tips, final critique
 
 ---
