@@ -6,6 +6,15 @@ summary:          Web 3.0 Swatch development, presentation tips, final critique
 
 ---
 
+### Thursday, Studio
+
+- Post your presentation draft in the Slack channel by 10am
+
+### Homework
+- Finish your project and practice your presentation
+
+---
+
 ### Tuesday, Studio
 
 - [Studio Zoom Link](https://newschool.zoom.us/my/nikafisher)
