@@ -1,8 +1,15 @@
 ---
 title:            Week 14
-start_date:       2020-04-27 00:00:00 -0500
+start_date:       2020-05-04 00:00:00 -0500
 date_range:       5/4 – 5/8
-summary:          Web 3.0 Swatch development, presentation tips, final critique
+summary:          Web 3.0 Swatch development, Presentation Tips, Final Critique
+
+---
+
+### Friday, Final Critique
+
+- [Zoom Link](https://newschool.zoom.us/my/nikafisher)
+- [Critique Order and Note Taking](https://paper.dropbox.com/doc/Core-Interaction-Final-Presentations--AzmTdNVbqpZt3gJcl_vc~c2KAg-jJ7ZqCiC3fwq3odIDmv1S)
 
 ---
 
