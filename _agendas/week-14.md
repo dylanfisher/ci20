@@ -11,6 +11,10 @@ summary:          Web 3.0 Swatch development, Presentation Tips, Final Critique
 - [Zoom Link](https://newschool.zoom.us/my/nikafisher)
 - [Critique Order and Note Taking](https://paper.dropbox.com/doc/Core-Interaction-Final-Presentations--AzmTdNVbqpZt3gJcl_vc~c2KAg-jJ7ZqCiC3fwq3odIDmv1S)
 
+Thank you to our guest critics Rachael Yaeger and Ben Gold!
+
+Have a good summer!
+
 ---
 
 ### Thursday, Studio
